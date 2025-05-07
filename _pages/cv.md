@@ -34,7 +34,7 @@ Scientific Experiences
 * **2018 - 2019**	Project employee, Status of non-native fishes of Zarivar Lake, Department of Environment
 * **2018 - 2019**	Project employee, Haraz (River) Project (Environmental Flow Assessment), Shahid Beheshti University
 * **2018**	10 days of field work with the Czech Republic scientist group (Masaryk University) on fish parasites as a guide and trainee. 
-* **2017 - 201**9	Project employee, Urban (Tehran) Stream Restoration Project, University of Tehran 
+* **2017 - 2019**	Project employee, Urban (Tehran) Stream Restoration Project, University of Tehran 
 * **2017 - 2018**	Project employee, Western Rivers of Iran characteristics Projects, Mahab Qods Co.
 * **2017**	Worked as a guide and trainee with a German scientist’s group (Staatliches Museum für Naturkunde Stuttgart) on a 21-day expedition in Iran to identify Iran’s aquatic insect fauna
 * **2016 - 2017**	Project employee, Status of non-native Tilapia Zilli in Iran, Department of Environment, Shahid Beheshti University
@@ -65,7 +65,7 @@ Softwares
 * Proficiency in ArcGIS, Diva-GIS, QGIS.
 * Familiar with R.
 * Proficiency in Adobe Photoshop, Adobe InDesign, Adobe Illustrator.
-* Familiar with Linux based operating system esp. Ubuntu and openSUSE.
+* Familiar with Linux-based operating systems, especially Ubuntu and Manjaro.
 * Familiar with Phylogenetic tools: RAxML, MrBayes, MEGA, BioEdit, Geneious.
 * Proficiency in MaxEnt and SDMtools.
 
