@@ -39,7 +39,7 @@ SCIENTIFIC EXPERIENCES
 * **2017**	Worked as a guide and trainee with a German scientist’s group (Staatliches Museum für Naturkunde Stuttgart) on a 21-day expedition in Iran to identify Iran’s aquatic insect fauna
 * **2016 - 2017**	Project employee, Status of non-native Tilapia Zilli in Iran, Department of Environment, Shahid Beheshti University
 * **2015-2020**	Research assistant in Environmental Science Research Institute, Department of Biodiversity and Ecosystem Management, Shahid Beheshti University, Tehran, Iran
-* **2014-2020t**	More than 150 days of sampling field trips on fishes, aquatic insects, and lizards, Shahid Beheshti University
+* **2014-2020**	More than 150 days of sampling field trips on fishes, aquatic insects, and lizards, Shahid Beheshti University
 * **2014-2017**	More than 200 days working in the biodiversity laboratory of Shahid Beheshti University, dissecting fish, such as counting female eggs, dissecting digestive organs, and scale preparation. Shahid Beheshti University
 * **2014-2017**	More than 120 days working in the molecular laboratory, at Shahid Beheshti University
 
