@@ -11,35 +11,61 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Evolutionary Biology and Ecology, Masaryk University, 2025 (expected)
+* M.S. in Biodiversity and Ecosystem Management, Shahid Beheshti University, 2017
+* B.S. in Environmental Science, Isfahan University of Technology, 2013
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+Employment
+==========
+2025 -Present:  Class I Researcher, Mirecology Group, Department of Botany and Zoology, Masaryk University, Faculty of Science, Brno, Czech Republic.
+2021 – Present:	Class I Researcher, Parasitology Group, Department of Botany and Zoology, Masaryk University, Faculty of Science, Brno, Czech Republic.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+SCIENTIFIC EXPERIENCES 
+2022	Two and half-month internship at Shahid Beheshti University, Iran accompanied by several fish parasitological field trips
+2021-2023	Three fish parasitological field trips to Turkey (63 days) in cooperation with the Turkish universities.
+2021	Two weeks fish parasitological field trip to Iraq in cooperation with Salahedin University, Erbil
+2019 - 2020	Project employee, Talar (River) Project (Environmental Flow Assessment), Shahid Beheshti University
+2019 – 2020	Project employee, Tajan (River) Project (Environmental Flow Assessment), Shahid Beheshti University
+2018 - 2021	Advisor to several Master theses on macroinvertebrates (with emphasis on Ephemerpotera and Plecoptera), fish ecology, and limnology
+2018 - 2020	Conduct more than 50 days of fieldwork in Iran, exclusively on Ephemeroptera and Plecoptera, collecting data for the joint project with SMNS (Staatliches Museum für Naturkunde Stuttgart).
+2018 - 2020	Preparing Ephemeroptera and Plecoptera specimens for the joint project with SMNS. 
+2018 – 2019	Project employee, Jajroud (River) Project (Environmental Flow Assessment) Department of Environment
+2018 - 2019	Project employee, Status of non-native fishes of Zarivar Lake, Department of Environment
+2018 - 2019	Project employee, Haraz (River) Project (Environmental Flow Assessment), Shahid Beheshti University
+2018	10 days of field work with the Czech Republic scientist group (Masaryk University) on fish parasites as a guide and trainee. 
+2017 - 2019	Project employee, Urban (Tehran) Stream Restoration Project, University of Tehran 
+2017 - 2018	Project employee, Western Rivers of Iran characteristics Projects, Mahab Qods Co.
+2017	Work as guide and trainee with a German scientist’s group (Staatliches Museum für Naturkunde Stuttgart) on a 21-day expedition in Iran to identify Iran’s aquatic insect fauna
+2016 - 2017	Project employee, Status of non-native Tilapia Zilli in Iran, Department of Environment, Shaid Beheshti University
+2015-2020	Research assistant in Environmental Science Research Institute, Department of Biodiversity and Ecosystem Management, Shahid Beheshti University, Tehran, Iran
+2014-2020t	More than 150 days of sampling field trips on fishes, aquatic insects, and lizards, Shahid Beheshti University
+2014-2017	More than 200 days working in the biodiversity laboratory of Shahid Beheshti University dissecting fishes, like counting female eggs, dissecting digesting organs, and scale preparation. Shahid Beheshti University
+2014-2017	More than 120 days working in the molecular laboratory, at Shahid Beheshti University
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+EXECUTIVE EXPERIENCE
+2018-2021	Coordinator to several applied science projects in conservation and biodiversity
+2013	Public relation chair, first International Conference on Landscape Ecology, October
+2012-2013	Head of Secretaries of student councils on cultural matters, Isfahan University of Technology
+	
+	
+	
+
+Honors and Rewards 
+==================
+2021	Brno PhD talent winner
+2021-2022	Recipient of supplementary scholarship for PhD student, Department of Botany and Zoology 
+2021	Scholarship for foreign students, JCMM
+2016	Honorary student of the year among all biodiversity students in the faculty of biodiversity and ecosystem management, Shahid Beheshti University
+2014	Ranked 16 on the national entrance exam in order to get in a master’s degree program among approximately 10000 participants
+
+Softwares
+==========
+•	Proficiency in ArcGIS, Diva-GIS, QGIS.
+•	Familiar with R.
+•	Proficiency in Adobe Photoshop, Adobe InDesign, Adobe Illustrator.
+•	Familiar with Linux based operating system esp. Ubuntu and openSUSE.
+•	Familiar with Phylogenetic tools: RAxML, MrBayes, MEGA, BioEdit, Geneious.
+•	Proficiency in MaxEnt and SDMtools.
 
 Publications
 ======
