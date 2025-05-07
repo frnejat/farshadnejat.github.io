@@ -20,7 +20,7 @@ Employment
 * **2025 -Present:** Class I Researcher, Mirecology Group, Department of Botany and Zoology, Masaryk University, Faculty of Science, Brno, Czech Republic.
 * **2021 – Present:** Class I Researcher, Parasitology Group, Department of Botany and Zoology, Masaryk University, Faculty of Science, Brno, Czech Republic.
 
-SCIENTIFIC EXPERIENCES
+Scientific Experiences
 =====================
 * **2022**	Two and a half-month internship at Shahid Beheshti University, Iran accompanied by several fish parasitological field trips
 * **2021-2023**	Three fish parasitological field trips to Turkey (63 days) in cooperation with the Turkish universities.
@@ -43,8 +43,8 @@ SCIENTIFIC EXPERIENCES
 * **2014-2017**	More than 200 days working in the biodiversity laboratory of Shahid Beheshti University, dissecting fish, such as counting female eggs, dissecting digestive organs, and scale preparation. Shahid Beheshti University
 * **2014-2017**	More than 120 days working in the molecular laboratory, at Shahid Beheshti University
 
-EXECUTIVE EXPERIENCE
-====================
+Executive Expriences
+===================
 * **2018-2021**	Coordinator for several applied science projects in conservation and biodiversity
 * **2013**	Public relations chair, first International Conference on Landscape Ecology, October
 * **2012-2013**	Head of Secretaries of student councils on cultural matters, Isfahan University of Technology
